@@ -10,6 +10,8 @@ Authors: William Jarkander, Isac Sandberg, Julius Searancke (May 2026)
 
 The data in `AI_Use_and_Student_Success_SEM/data.csv` was not collected by us. It comes from:
 
-Correa, C. (2026). "Study habits and artificial intelligence use among university students: A proportionally stratified survey dataset" (Version 1) [Data set]. Mendeley Data. https://doi.org/10.17632/mcwb2ppdsw.1
+Correa, Cristian (2026), "Study habits and artificial intelligence use among university students: A proportionally stratified survey dataset", Mendeley Data, V1, doi: 10.17632/mcwb2ppdsw.1
+
+Link: https://doi.org/10.17632/mcwb2ppdsw.1
 
 Please cite the original dataset if you reuse it, and check its Mendeley Data page for the license terms.
